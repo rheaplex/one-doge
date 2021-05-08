@@ -1,0 +1,61 @@
+# python vanitymnem.py --no-hardened -v
+
+Seed:                  83efc7a3bf6dac06fe8d21d3b0ec8ec4292b1c92518f4e074097d7b4a0b92ab5cbc284d3338d3527a8fc204b4b0091ec345c7f207aa59632965e52fe35f41783
+Mnemonic:              cousin casino supply skate frozen rice cube net thing entire lizard explain coyote future brave stick ocean romance bind detect knife marine dutch model
+Master key:            xprv9s21ZrQH143K47FLakqDmVjcrD1ppM4Ew2uoJjnnCyUk56q1CxwYtrj6FFjsUU5gofhzjkg7fQD38UUwpDzRZMgZZ17BJ4xTRN4VKCM4Kjk
+Derivation:            m/44'/0'/0'/70
+Legacy address:        1Doge7xZ5UZetPEiCLZZuykiz9jUCdigr1
+
+Seed:                  5dd1294c25db03d4ee3ba8de5bf0fc9091ff5dc4e458be5147b4d9353c220e840c013f4ed5aa7c0d92158e3b3d256eb15afa07bbe62d0030f41eb41e7c919fdb
+Mnemonic:              cousin casino supply slender dress truth save coyote welcome truck sibling more fancy fragile utility fitness congress thing rain ocean drama cigar random exhaust
+Master key:            xprv9s21ZrQH143K2fKnwwsp4jBJ9NJC2DmaP7qpEvDDU4Ey3oDjB97iKqLUujJSUi6Srmd5mgmpzF59HzUeWfXkrv5nC9kjUqFyjLbHsvtgfwc
+Derivation:            m/44'/0'/0'/56
+Legacy address:        1DoG3DuzcDCRcy8KejEJ5yTnfRBnT4VaEQ
+
+Seed:                  c6edce0cf8ab60fbb0925b44410f0faa7c82d9075fdecb27391f26e1d2be73bc2a32c24c89a4cbcc9708d02375f6a6b7eef30deb07e5425f18a95c43daacf0cf
+Mnemonic:              cousin casino supply ski hurry horse number mixed almost fine example flush remember sense aim neither robust clap nasty enable brisk tissue section cruel
+Master key:            xprv9s21ZrQH143K4JEo4WcTt5nciqn4M5uoi7simzFSrFFg9AqvHF1w3F1FECjoDChiZV43k5ZFcZVfiVDK74Jfwptw8vM2KtGXW8h7FRK9iDY
+Derivation:            m/44'/0'/0'/29
+Legacy address:        1DoGEkbCSVXk7LEkDxfFwkEUAKtL1B4qFr
+
+Entropy:               b'1doge\xf5\x12\xa9\xb9\xda_\xec\x8f\xbc6\x91\x10b\xba\x9c&\xdc\xef\xcf\xf1\xe9v\x1fa\x12\xa3W'
+Seed:                  8be0f35197a361255f415709f566616076a6c97ff8f351f69ac6499c6c126c42ee8cc79c8ff119a203975cfe1786d499b7579b64cb395141dbaed37a79621a44
+Mnemonic:              cousin casino supply slogan eye feel trash episode uncle law asset captain alert front identify swear used legend kid umbrella voyage matter minute video
+Master key:            xprv9s21ZrQH143K3k2ZUSdXohDAG7DjX68CdrAeahxyCRuq4XHjP1KzPvVcPgEcont6yFsWB5owTA7zsZhH4jLtSmFFX2nRjnGV1yXM9Uq75QH
+Derivation:            m/44'/0'/0'/30
+Legacy address:        1DogeEVqRnJht6hFAP9nibZMFpZEa9AEHN
+
+Entropy:               b'1Doge\xc4\x18}s[\xe8\x8c\xc0\x99\xea\xaa\xe3\x9b_\xc9\xcd\xb4\xd4d\xe8y\xd5\xde\x048\x13\x07'
+Seed:                  1a9354f328e0bf30c271858b487efd81fbccc335f398958a0701ca24321ed40e8020e433baf837dc943e40b8fe4a166a164f29006b34c0a4a37bea31988a1f71
+Mnemonic:              course casino supply slide dose dirt sniff laptop mimic age kingdom fiction defy quiz cheese repair stamp chef bunker produce theory bright equal thought
+Master key:            xprv9s21ZrQH143K2BGfMBnAcNvy8ruKxUFkG7j9ewtL1j1j9GmYSfij8LRp6VgMWQSir9xQPJ4UZdwUdXofTxZCRNb6kD6KGoxuKwfzhLApcpi
+Derivation:            m/44'/0'/0'/24
+Legacy address:        1DoGEbCGMwScMaKDzay2Ra7P7pSJ52oa39
+
+Entropy:               b'1Doge\x01H\r\x95r#\x15\xa4\xdd\xb2\x0e2K\xa7\rR\xe0[i\x82\xbf\x04"\xc4\x1a\xfb='
+Seed:                  ff85672009894ff968d88448384e95701271c1c48ce871b51acc505c6a329970fff60907d6e31d3e83fa0832466e43c56d084e7addae06c9be8bfe333f552d56
+Mnemonic:              course casino supply skate behind almost fiction dutch between cheap hold broccoli caution squeeze crystal foster fork equal quit analyst clump aspect undo priority
+Master key:            xprv9s21ZrQH143K2mPhJJc2pQtReLBNQjrbBVDP9geXcaCSurgk56mWcXp6Lamd9CTMRtybs3kunocaMpMFZqFsGn3STz9XZvdDrWeRCLzkuCi
+Derivation:            m/44'/0'/0'/28
+Legacy address:        1DogeuY5aryTX3N4LprwRLCMaJVJkrbnTS
+
+Entropy:               b'1Doge\x11\xb0\xc1\x1eN\xf1\xcc\x9fg\xbe\xd4!\xce\x1f\x07\xa8f\x070u\xb6\x02\xf4/1S\x17'
+Seed:                  f29f7bc22c443228f20dc5f6cb23a6b4fd1068641779073f2b0db5cf43c0c1d252c97ce1ec5296dc8fd164656cecfd239d44c9500693b586463259253bc17957
+Mnemonic:              course casino supply sketch brand gauge junior taste smart will use portion brother auto burger art already lonely horn album drill obvious era upon
+Master key:            xprv9s21ZrQH143K3QESvK1GbAhq2BCZeq5zuuZDE3v5MnDvaCr2zMFUoDj5gdTzo9fjBw67D1Ckk9gLB13PseLpJCszSEXf2CL7CHntkL1os2D
+Derivation:            m/44'/0'/0'/23
+Legacy address:        1Dogew5Q85dpxAy1aSp3JcPQcvVfRiVHgw
+
+Entropy:               b'1Doge\xfd\xb7~2\xb2\xb7[\xae{.\xf9\x1c\xc9Jx\xfetQ\xf2$td\xd9\xcc\xc8\x10\xc2'
+Seed:                  a122d33279be1d6453dfff13f731e49f6146375d1ceb6bf4537e5936c046e8122f50bcad39dca0a6bf2d01a29d5736653be159d47a83d51a0bcba2e1d6c24f71
+Mnemonic:              course casino supply slogan swarm sample skull finger forum inherit slight vendor smart pioneer token soldier faint muffin brown situate orphan goat drink dragon
+Master key:            xprv9s21ZrQH143K3feaUiFAfNdusPMVFgpMoWxLjQweiDas5K3kAcn3HHbkAwfrDu8RwTjAnqtrJQvLq6MHodg2DHzba7LdxiQGYoPspXhdQT5
+Derivation:            m/44'/0'/0'/87
+Legacy address:        1Doge6P2TYYTaELVpgGgP3DtNUfXcbJo5b
+
+Entropy:               b'1Doge\xea\xf7\rVO\xa9\x9c\xdb\xa6\xab\xf1:\x9f|.Is\xb5\x86{\xc8DJ\x06\x08N7'
+Seed:                  26ab004f1890344763ea42b8214f845504b4a431842f30c94d044352a73a1561d21e83cf59d4eea1dbe81cba5c9117e35362bb5616b38533fd6cb7a504dbb54c
+Mnemonic:              course casino supply slim quarter mammal float vivid orphan tag priority tiny prepare safe rice common remain critic velvet mass parrot aerobic decide word
+Master key:            xprv9s21ZrQH143K45j62jDdWj5kRAyjfGZWnnUrKxzS6YHvqvrXQGujziLvH3CgwQAuhLkZqwg4wBn4SChGK8Mgm6712vbZ2LyKwMtTFap7Y1u
+Derivation:            m/44'/0'/0'/75
+Legacy address:        1Doge17XMnNoSPA7XAW5EMabrc3QSyUxtc
